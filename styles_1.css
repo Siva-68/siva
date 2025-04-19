@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(226, 182, 167);
+}
+#first{
+    background-color:rgb(141, 31, 141) ;
+    text-align: center;
+    height: 300px;
+    padding:10px;
+}
+h1{
+    color:aqua;
+}
+#first label{
+    color:violet;
+}
+button{
+    background-color: brown;
+}
